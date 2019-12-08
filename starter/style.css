@@ -195,7 +195,7 @@ i {
 #rules {
     position: absolute;
     left: 50%;
-    bottom: 50px;
+    top: 525px;
     transform: translateX(-50%);
     background-color: #EB4D4D;
     color: white;
